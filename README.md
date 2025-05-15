@@ -1,1 +1,1 @@
-Product review spam detection usnig Machine learning
+Product review spam detection using Machine learning
